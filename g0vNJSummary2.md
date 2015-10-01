@@ -1,5 +1,6 @@
 g0v@NJ 中秋賞月黑客松-活動記錄
 ===
+建議至 https://hackmd.io/s/VJjJI_rye 瀏覽網頁好讀版。
 
 ![](http://i.imgur.com/hmO6NWi.jpg)
 
